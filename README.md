@@ -9,7 +9,7 @@ Data Science Projects
 | Название проекта | Описание | Используемые библиотеки | 
 | :---------------------- | :---------------------- | :---------------------- |
 | [Cellular Churn Prediction](https://github.com/G0odn1ght/Yandex-DS/tree/main/Cellular%20Churn%20Prediction) | Прогноз оттока клиентов для оператора связи | *pandas*, *sklearn*|
-| [Text classification](https://github.com/G0odn1ght/Yandex-DS/tree/main/Text%20Classification) | Построение модель для классификации комментариев.  | pandas, *nltk*, *sklearn*|
+| [Text classification](https://github.com/G0odn1ght/Yandex-DS/tree/main/Text%20Classification) | Построение модели классификации текстовых комментариев.  | pandas, *nltk*, *sklearn*|
 | [Gold recovery](https://github.com/G0odn1ght/Yandex-DS/tree/main/Gold) | Построение модели предсказания коэффициента восстановления золота из золотосодержащей руды для производственного предприятия. | *pandas*, *sklearn*|
 | [Taxi](https://github.com/G0odn1ght/Yandex-DS/tree/main/Taxi) | Построение регрессионной модели для прогнозирования временных рядов. | *pandas*, *sklearn*|
 | [Drill](https://github.com/G0odn1ght/Yandex-DS/tree/main/Drill) | Применив технику Bootstrap для анализа бизнес показателей необходимо принять решение о разработке скважин в одном из трех регионов на основании предоставленных характеристик.  | *pandas*, *sklearn*|
