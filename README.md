@@ -9,4 +9,4 @@ Data Science Projects
 | Название проекта | Описание | Используемые библиотеки | 
 | :---------------------- | :---------------------- | :---------------------- |
 | [Cellular Churn Prediction](https://github.com/G0odn1ght/Yandex-DS/tree/main/Cellular%20Churn%20Prediction) | Нам необходимо спрогнозировать отток клиентов для оператора связи | *pandas*, *sklearn*|
-| [Text classification](https://github.com/G0odn1ght/Yandex-DS/tree/main/Cellular%20Churn%20Prediction) | Необходимо обучить модель для классификации комментариев на позитивные и негативные.  | *nltk*, *sklearn*|
+| [Text classification](https://github.com/G0odn1ght/Yandex-DS/tree/main/Text%20Classification) | Необходимо обучить модель для классификации комментариев на позитивные и негативные.  | *nltk*, *sklearn*|
