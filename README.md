@@ -11,3 +11,5 @@ Data Science Projects
 | [Cellular Churn Prediction](https://github.com/G0odn1ght/Yandex-DS/tree/main/Cellular%20Churn%20Prediction) | Нам необходимо спрогнозировать отток клиентов для оператора связи | *pandas*, *sklearn*|
 | [Text classification](https://github.com/G0odn1ght/Yandex-DS/tree/main/Text%20Classification) | Необходимо обучить модель для классификации комментариев на позитивные и негативные.  | pandas, *nltk*, *sklearn*|
 | [Gold recovery](https://github.com/G0odn1ght/Yandex-DS/tree/main/Gold) | Построение модели предсказания коэффициента восстановления золота из золотосодержащей руды для производственного предприятия. | *pandas*, *sklearn*|
+| [Taxi](https://github.com/G0odn1ght/Yandex-DS/tree/main/Taxi) | Построение регрессионной модели для прогнозированию временных рядов. | *pandas*, *sklearn*|
+| [Drill](https://github.com/G0odn1ght/Yandex-DS/tree/main/Drill) | Применив технику Bootstrap для анализа бизнес показателей необходимо принять решение о разработке скважин в одном из трех регионов на основании предоставленных характеристик.  | *pandas*, *sklearn*|
