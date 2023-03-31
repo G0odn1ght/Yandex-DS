@@ -13,3 +13,5 @@ Data Science Projects
 | [Gold recovery](https://github.com/G0odn1ght/Yandex-DS/tree/main/Gold) | Построение модели предсказания коэффициента восстановления золота из золотосодержащей руды для производственного предприятия. | *pandas*, *sklearn*|
 | [Taxi](https://github.com/G0odn1ght/Yandex-DS/tree/main/Taxi) | Построение регрессионной модели для прогнозирования временных рядов. | *pandas*, *sklearn*|
 | [Drill](https://github.com/G0odn1ght/Yandex-DS/tree/main/Drill) | Применив технику Bootstrap для анализа бизнес показателей необходимо принять решение о разработке скважин в одном из трех регионов на основании предоставленных характеристик.  | *pandas*, *sklearn*|
+| [AB Test](https://github.com/G0odn1ght/Yandex-DS/tree/main/AB%20test%20Game%20project) | Анализ ретроспективной ифнормации о рынке игровых консолей и проверка гипотез путем проведения AB теста | *pandas*, *sklearn*|
+
